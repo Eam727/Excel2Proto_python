@@ -1,0 +1,7 @@
+F:\PythonExcel\ThirdParty\protobuf-net-master\protobuf-net\bin\Net20\Licence.txt
+F:\PythonExcel\ThirdParty\protobuf-net-master\protobuf-net\bin\Net20\protobuf-net.xml
+F:\PythonExcel\ThirdParty\protobuf-net-master\protobuf-net\bin\Net20\protobuf-net.dll
+F:\PythonExcel\ThirdParty\protobuf-net-master\protobuf-net\bin\Net20\protobuf-net.pdb
+F:\PythonExcel\ThirdParty\protobuf-net-master\protobuf-net\obj\Net20\protobuf-net.csprojResolveAssemblyReference.cache
+F:\PythonExcel\ThirdParty\protobuf-net-master\protobuf-net\obj\Net20\protobuf-net.dll
+F:\PythonExcel\ThirdParty\protobuf-net-master\protobuf-net\obj\Net20\protobuf-net.pdb

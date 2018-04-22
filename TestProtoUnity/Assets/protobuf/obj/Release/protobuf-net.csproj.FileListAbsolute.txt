@@ -1,0 +1,1 @@
+F:\PythonExcel\ThirdParty\protobuf-net-master\protobuf-net\obj\Release\protobuf-net.csprojResolveAssemblyReference.cache
